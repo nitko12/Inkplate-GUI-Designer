@@ -1,2 +1,2 @@
 # Inkplate-GUI-Designer
-Web app for designing GUI for paperink displays
+Moved to https://github.com/e-radionicacom/Inkplate-GUI-Designer
